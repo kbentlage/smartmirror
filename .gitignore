@@ -1,0 +1,6 @@
+*.DS_Store
+**/__MACOSX
+\.DS_*
+\._.DS_*
+Thumbs\.db
+.idea/*
